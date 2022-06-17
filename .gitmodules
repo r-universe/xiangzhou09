@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hIRT"]
+	path = hIRT
+	url = https://github.com/xiangzhou09/hirt
+	shallow = true
+	registered = true
+[submodule "localIV"]
+	path = localIV
+	url = https://github.com/xiangzhou09/localiv
+	shallow = true
+	registered = true
+[submodule "rbw"]
+	path = rbw
+	url = https://github.com/xiangzhou09/rbw
+	shallow = true
+	registered = true
+[submodule "strat"]
+	path = strat
+	url = https://github.com/xiangzhou09/strat
+	shallow = true
+	registered = true

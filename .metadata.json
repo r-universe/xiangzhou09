@@ -1,0 +1,18 @@
+[
+  {
+    "package": "hIRT",
+    "oncran": true
+  },
+  {
+    "package": "localIV",
+    "oncran": true
+  },
+  {
+    "package": "rbw",
+    "oncran": true
+  },
+  {
+    "package": "strat",
+    "oncran": true
+  }
+]
