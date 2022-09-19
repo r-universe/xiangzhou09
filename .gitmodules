@@ -8,11 +8,6 @@
 	url = https://github.com/xiangzhou09/hirt
 	shallow = true
 	registered = true
-[submodule "localIV"]
-	path = localIV
-	url = https://github.com/xiangzhou09/localiv
-	shallow = true
-	registered = true
 [submodule "rbw"]
 	path = rbw
 	url = https://github.com/xiangzhou09/rbw
