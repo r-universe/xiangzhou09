@@ -4,7 +4,7 @@
     "oncran": true
   },
   {
-    "package": "localIV",
+    "package": "strat",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "strat",
+    "package": "localIV",
     "oncran": true
   }
 ]
