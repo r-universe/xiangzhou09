@@ -8,6 +8,9 @@
 [submodule "localIV"]
 	path = localIV
 	url = https://github.com/xiangzhou09/localiv
+[submodule "paths"]
+	path = paths
+	url = https://github.com/xiangzhou09/paths
 [submodule "rbw"]
 	path = rbw
 	url = https://github.com/xiangzhou09/rbw
