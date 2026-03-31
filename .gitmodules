@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "hIRT"]
-	path = hIRT
-	url = https://github.com/xiangzhou09/hirt
 [submodule "localIV"]
 	path = localIV
 	url = https://github.com/xiangzhou09/localiv
